@@ -1,4 +1,4 @@
-package polymorphism.samjho;
+package polymorphism.samjho.examplese;
 
 public class EmailNotifier implements Notifier{
     @Override

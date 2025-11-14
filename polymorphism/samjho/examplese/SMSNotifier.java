@@ -1,4 +1,4 @@
-package polymorphism.samjho;
+package polymorphism.samjho.examplese;
 
 public class SMSNotifier implements Notifier {
     public void send(String msg){
