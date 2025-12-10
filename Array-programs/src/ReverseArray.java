@@ -8,6 +8,7 @@ public class ReverseArray {
         }
     }
 
+
     public static void main(String[] args){
         int[] arr1 = {2,4,8,6,1,9};
         String[] arr2 = {"Ram", "Shyam", "Abhishek"};
