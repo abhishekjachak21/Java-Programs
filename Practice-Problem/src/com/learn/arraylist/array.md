@@ -1,12 +1,12 @@
 Methods in ArrayList => add, addAll, remove, removeAll, clear, contains, size, get, set, indexOf, iterator
 
 - 🔥 MOST USED IN REAL PROJECTS
-- add 
-- addAll 
-- get 
+- add(e)
+- addAll(Collection) 
+- get(index)
 - set(index, element)
 - size 
-- contains
+- contains(Object)
 - remove(object) ...(more common than remove(index))
 - clear
 - iterator() 

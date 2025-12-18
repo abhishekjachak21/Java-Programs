@@ -3,6 +3,7 @@ import java.util.ArrayList;
 
 public class PlayWithAL {
     public static void main(String[] args){
+
         ArrayList<Integer> arr1 = new ArrayList<>();
         arr1.add(45);
         arr1.add(23);
